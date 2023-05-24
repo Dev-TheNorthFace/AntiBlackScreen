@@ -1,0 +1,16 @@
+{
+	"name" : "Anti Blackscreen",
+	"description" : "Permet de empecher les blackscreen",
+	"author" : "The North Face",
+	"contact" : "GitHub : Deb-TheNorthFace",
+	"version" : "4",
+	"blt_version" : 2,
+	"priority" : 1,
+	"undisablable" : false,
+	"disable_safe_mode" : true,
+	"color": "0 46 255",
+	"hooks": [
+		{ "hook_id": "lib/managers/menu/missionbriefinggui", "script_path": "MissionBriefingGui.lua" 
+		}
+	]
+}
