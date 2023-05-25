@@ -2,7 +2,7 @@
 	"name" : "Anti Blackscreen",
 	"description" : "Permet de empecher les blackscreen",
 	"author" : "The North Face",
-	"contact" : "GitHub : Deb-TheNorthFace",
+	"contact" : "GitHub : Dev-TheNorthFace",
 	"version" : "4",
 	"blt_version" : 2,
 	"priority" : 1,
